@@ -30,7 +30,7 @@ Tunn6x Tweaks is a free and powerful batch-based utility designed to optimize an
 
 ## 📦 Installation
 
-1. **Download** the latest release `.zip` from [Releases](https://github.com/YourUsername/Tunn6x-Tweaks/releases).
+1. **Download** the latest release `.zip` from [Releases](https://github.com/tunn6x/Tunn6x-Tweaks/releases).
 2. **Extract** the ZIP file using WinRAR, 7-Zip, or Windows Explorer.
 3. **Run** `Tunn6xTweaks.bat` as **Administrator**.
 4. Follow the interactive menu.
